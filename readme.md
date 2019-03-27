@@ -5,7 +5,7 @@
  
 ## hudson 插件的基石
 
- hudson利用 (sezpoz)[https://github.com/jglick/sezpoz] 实现了优雅地实现了插件化
+ hudson利用 [sezpoz](https://github.com/jglick/sezpoz) 实现了优雅地实现了插件化
  
 ## 注意点
 
